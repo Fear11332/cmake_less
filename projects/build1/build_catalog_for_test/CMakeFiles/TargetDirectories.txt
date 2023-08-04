@@ -1,0 +1,3 @@
+/mnt/c/Users/PC/Desktop/study/buid_system_cmake/projects/build1/build_catalog_for_test/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/PC/Desktop/study/buid_system_cmake/projects/build1/build_catalog_for_test/CMakeFiles/test_make.dir
+/mnt/c/Users/PC/Desktop/study/buid_system_cmake/projects/build1/build_catalog_for_test/CMakeFiles/edit_cache.dir

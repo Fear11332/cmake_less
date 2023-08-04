@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/sample_prog.dir/main.cpp.o  -o sample_prog ../sample_lib/libsample_lib.a 

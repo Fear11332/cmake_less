@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsample_lib.a  CMakeFiles/sample_lib.dir/sample_mod.cpp.o
+/usr/bin/ranlib libsample_lib.a
