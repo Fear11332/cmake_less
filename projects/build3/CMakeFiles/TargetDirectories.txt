@@ -1,0 +1,8 @@
+/mnt/c/Users/PC/Desktop/study/buid_system_cmake/projects/build3/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/PC/Desktop/study/buid_system_cmake/projects/build3/CMakeFiles/edit_cache.dir
+/mnt/c/Users/PC/Desktop/study/buid_system_cmake/projects/build3/mylib1/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/PC/Desktop/study/buid_system_cmake/projects/build3/mylib1/CMakeFiles/edit_cache.dir
+/mnt/c/Users/PC/Desktop/study/buid_system_cmake/projects/build3/mylib1/CMakeFiles/lib1.dir
+/mnt/c/Users/PC/Desktop/study/buid_system_cmake/projects/build3/myprog/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/PC/Desktop/study/buid_system_cmake/projects/build3/myprog/CMakeFiles/edit_cache.dir
+/mnt/c/Users/PC/Desktop/study/buid_system_cmake/projects/build3/myprog/CMakeFiles/prog.dir
