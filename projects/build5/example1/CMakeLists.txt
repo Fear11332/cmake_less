@@ -1,0 +1,5 @@
+set(VALUE "value 1" CACHE STRING "test value" FORCE)
+set(VALUE "value 2")
+message(${VALUE})
+unset(VALUE)
+message(${VALUE})
