@@ -19,4 +19,7 @@ message(${my_string})
 string(FIND ${my_string} ${my_string} string_beg)
 string(SUBSTRING ${my_string} ${string_beg} ${string_length} my_substring)
 message(${my_substring})
+string(REPLACE "i am an " "i am a " my_string "${my_string}") 
+message(${my_string})
+
 
