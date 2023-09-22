@@ -1,7 +1,10 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/l.dir/src/l.cpp.o"
-  "../lib/libl.pdb"
-  "../lib/libl.so"
+  "../bin/libl.dll"
+  "../bin/libl.dll.manifest"
+  "../bin/libl.pdb"
+  "../lib/libl.dll.a"
+  "CMakeFiles/l.dir/src/l.cpp.obj"
+  "CMakeFiles/l.dir/src/l.cpp.obj.d"
 )
 
 # Per-language clean rules from dependency scanning.
