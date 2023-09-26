@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/ex-version.dir/ex-version.cpp.o  -o ex-version 
