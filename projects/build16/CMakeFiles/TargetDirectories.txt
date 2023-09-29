@@ -1,0 +1,11 @@
+/mnt/c/Users/PC/Desktop/study/buid_system_cmake/projects/build16/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/PC/Desktop/study/buid_system_cmake/projects/build16/CMakeFiles/edit_cache.dir
+/mnt/c/Users/PC/Desktop/study/buid_system_cmake/projects/build16/CMakeFiles/test.dir
+/mnt/c/Users/PC/Desktop/study/buid_system_cmake/projects/build16/lib/CMakeFiles/edit_cache.dir
+/mnt/c/Users/PC/Desktop/study/buid_system_cmake/projects/build16/lib/CMakeFiles/test.dir
+/mnt/c/Users/PC/Desktop/study/buid_system_cmake/projects/build16/lib/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/PC/Desktop/study/buid_system_cmake/projects/build16/lib/CMakeFiles/mylib.dir
+/mnt/c/Users/PC/Desktop/study/buid_system_cmake/projects/build16/test/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/PC/Desktop/study/buid_system_cmake/projects/build16/test/CMakeFiles/edit_cache.dir
+/mnt/c/Users/PC/Desktop/study/buid_system_cmake/projects/build16/test/CMakeFiles/test.dir
+/mnt/c/Users/PC/Desktop/study/buid_system_cmake/projects/build16/test/CMakeFiles/mylib_test.dir
