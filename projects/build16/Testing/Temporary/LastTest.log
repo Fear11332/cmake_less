@@ -1,18 +1,18 @@
-Start testing: Sep 28 18:54 PDT
+Start testing: Oct 03 17:30 PDT
 ----------------------------------------------------------
 1/1 Testing: mylib_test_1
 1/1 Test: mylib_test_1
 Command: "/mnt/c/Users/PC/Desktop/study/buid_system_cmake/projects/build16/test/mylib_test"
 Directory: /mnt/c/Users/PC/Desktop/study/buid_system_cmake/projects/build16/test
-"mylib_test_1" start time: Sep 28 18:54 PDT
+"mylib_test_1" start time: Oct 03 17:30 PDT
 Output:
 ----------------------------------------------------------
 <end of output>
-Test time =   0.02 sec
+Test time =   0.03 sec
 ----------------------------------------------------------
 Test Passed.
-"mylib_test_1" end time: Sep 28 18:54 PDT
+"mylib_test_1" end time: Oct 03 17:30 PDT
 "mylib_test_1" time elapsed: 00:00:00
 ----------------------------------------------------------
 
-End testing: Sep 28 18:54 PDT
+End testing: Oct 03 17:30 PDT
