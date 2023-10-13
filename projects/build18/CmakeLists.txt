@@ -1,0 +1,23 @@
+cmake_minimum_required(VERSION 3.10)
+project(file_trans)
+set(BINARY_DIR "${CMAKE_BINARY_DIR}")
+install(
+	FILES ${BINARY_DIR}/files/l1.cpp
+	DESTINATION ${BINARY_DIR}/lib_src/src
+)
+install(
+	FILES ${BINARY_DIR}/files/l1.h
+	DESTINATION ${BINARY_DIR}/lib_src/head
+)
+install(
+	FILES ${BINARY_DIR}/files/main.cpp
+    DESTINATION ${BINARY_DIR}/src
+)
+set(CMAKE_ARCHIVE_OUTPUT_DIRECTORY "${BINARY_DIR}/lib")
+if(WIN32)
+	set(CMAKE_RUNTIME_OUTPUT_DIRECTORY "${BINARY_DIR}/bin")
+elseif(UNIX)
+	set(CMAKE_LIBRARY_OUTPUT_DIRECTORY "${BINARY_DIR}/lib")
+endif()
+include(${CMAKE_BINARY_DIR}/files/build_lib.cmake)
+include(${CMAKE_BINARY_DIR}/files/build_ex.cmake)
