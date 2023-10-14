@@ -187,9 +187,6 @@ file_trans_BINARY_DIR:STATIC=/mnt/c/Users/PC/Desktop/study/buid_system_cmake/pro
 //Value Computed by CMake
 file_trans_SOURCE_DIR:STATIC=/mnt/c/Users/PC/Desktop/study/buid_system_cmake/projects/build18
 
-//Dependencies for target
-l1_LIB_DEPENDS:STATIC=
-
 
 ########################
 # INTERNAL cache entries
