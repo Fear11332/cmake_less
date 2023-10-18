@@ -1,2 +1,2 @@
 #pragma once
-int g();
+int a();
