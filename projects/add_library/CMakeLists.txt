@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.10)
+if(DEFINED STATIC)
+	add_library(exem STATIC l1.cpp l1.h)
+else()
+	add_library(dynexem SHARED l1.cpp l1.h)
+endif()

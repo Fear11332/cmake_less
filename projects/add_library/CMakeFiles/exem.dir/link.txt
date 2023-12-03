@@ -1,0 +1,2 @@
+/usr/bin/ar qc libexem.a CMakeFiles/exem.dir/l1.cpp.o
+/usr/bin/ranlib libexem.a

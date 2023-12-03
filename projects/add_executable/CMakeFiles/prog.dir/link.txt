@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/prog.dir/t.cpp.o CMakeFiles/prog.dir/p.cpp.o -o prog 
