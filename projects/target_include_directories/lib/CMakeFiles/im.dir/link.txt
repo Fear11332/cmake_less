@@ -1,0 +1,2 @@
+/usr/bin/ar qc libim.a CMakeFiles/im.dir/im.cpp.o
+/usr/bin/ranlib libim.a

@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/proga.dir/main.cpp.o -o proga  ../lib/libim.a 

@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.10)
+project(prog)
+add_executable(prog main.c dir1/h1.h dir2/h2.h)
+target_compile_definitions(prog PUBLIC -DHELLO=1)
+target_include_directories(prog PRIVATE dir1/ dir2/)

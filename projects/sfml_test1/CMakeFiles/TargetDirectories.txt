@@ -1,0 +1,5 @@
+C:/Users/PC/Desktop/study/buid_system_cmake/projects/sfml_test1/CMakeFiles/edit_cache.dir
+C:/Users/PC/Desktop/study/buid_system_cmake/projects/sfml_test1/CMakeFiles/rebuild_cache.dir
+C:/Users/PC/Desktop/study/buid_system_cmake/projects/sfml_test1/bin/CMakeFiles/game.dir
+C:/Users/PC/Desktop/study/buid_system_cmake/projects/sfml_test1/bin/CMakeFiles/edit_cache.dir
+C:/Users/PC/Desktop/study/buid_system_cmake/projects/sfml_test1/bin/CMakeFiles/rebuild_cache.dir

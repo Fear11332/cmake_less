@@ -1,0 +1,5 @@
+/mnt/44580EA6580E9738/Users/saw/Desktop/Users/saw/Desktop/Users/saw/Desktop/study/buid_system_cmake/projects/include_directories/CMakeFiles/edit_cache.dir
+/mnt/44580EA6580E9738/Users/saw/Desktop/Users/saw/Desktop/Users/saw/Desktop/study/buid_system_cmake/projects/include_directories/CMakeFiles/rebuild_cache.dir
+/mnt/44580EA6580E9738/Users/saw/Desktop/Users/saw/Desktop/Users/saw/Desktop/study/buid_system_cmake/projects/include_directories/src/build/CMakeFiles/proga.dir
+/mnt/44580EA6580E9738/Users/saw/Desktop/Users/saw/Desktop/Users/saw/Desktop/study/buid_system_cmake/projects/include_directories/src/build/CMakeFiles/edit_cache.dir
+/mnt/44580EA6580E9738/Users/saw/Desktop/Users/saw/Desktop/Users/saw/Desktop/study/buid_system_cmake/projects/include_directories/src/build/CMakeFiles/rebuild_cache.dir

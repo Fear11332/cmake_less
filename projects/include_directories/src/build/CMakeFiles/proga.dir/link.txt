@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/proga.dir/code/main.cpp.o CMakeFiles/proga.dir/code/im.cpp.o -o proga 
