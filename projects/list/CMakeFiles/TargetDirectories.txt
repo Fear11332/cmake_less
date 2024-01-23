@@ -1,0 +1,2 @@
+/mnt/c/Users/saw/Desktop/study/buid_system_cmake/projects/list/CMakeFiles/edit_cache.dir
+/mnt/c/Users/saw/Desktop/study/buid_system_cmake/projects/list/CMakeFiles/rebuild_cache.dir

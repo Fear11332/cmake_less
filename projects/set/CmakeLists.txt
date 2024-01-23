@@ -1,0 +1,14 @@
+cmake_minimum_required(VERSION 3.2.0)
+project(hello)
+set(
+	MOEOCHKO "vonyaet govnom" CACHE STRING "hi" FORCE 
+)
+message(${MOEOCHKO})
+unset(MOEOCHKO)
+set(MOEOCHKO "ne vonyaet")
+message(${MOEOCHKO})
+unset(MOEOCHKO)
+message(${MOEOCHKO})
+unset(MOEOCHKO CACHE)
+set(MOEOCHKO "snova vonyaet")
+message(${MOEOCHKO})
