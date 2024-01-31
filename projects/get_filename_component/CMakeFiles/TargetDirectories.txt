@@ -1,0 +1,4 @@
+/mnt/c/Users/saw/Desktop/study/buid_system_cmake/projects/get_filename_component/CMakeFiles/edit_cache.dir
+/mnt/c/Users/saw/Desktop/study/buid_system_cmake/projects/get_filename_component/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/saw/Desktop/study/buid_system_cmake/projects/get_filename_component/subdir/CMakeFiles/edit_cache.dir
+/mnt/c/Users/saw/Desktop/study/buid_system_cmake/projects/get_filename_component/subdir/CMakeFiles/rebuild_cache.dir

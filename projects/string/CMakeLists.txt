@@ -12,4 +12,6 @@ message("first substring /hello_world index: ${first_find_index}
 	last substring /hello_world index: ${last_find_index}")
 string(SUBSTRING ${PROJECT_PATH} ${first_find_index} ${last_find_index} SUBSTRING)
 message("substring: ${SUBSTRING}")
+string(REPLACE "/hello_world" "/bye_world" PROJECT_PATH ${PROJECT_PATH})
+message("string PROJECT_PATH after replace: ${PROJECT_PATH}")
 

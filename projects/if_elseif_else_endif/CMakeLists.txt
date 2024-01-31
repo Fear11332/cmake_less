@@ -1,0 +1,23 @@
+cmake_minimum_required(VERSION 3.2.0)
+project(if)
+if(DUMBASS)
+	message("cli arguments is true")
+elseif(DEFINED DUMBASS AND EXISTS ${PROJECT_SOURCE_DIR})
+	message("cli arguments is't true and project source dir exist")
+else()
+	message("cli argument is't true")
+endif()
+
+if(5 LESS 6)
+	message("5 LESS 6")
+endif()
+
+if("hello honey" STREQUAL ${PROJECT_SOURCE_DIR})
+	message("equal")
+elseif(NOT "hello honey" STREQUAL ${PROJECT_SOURCE_DIR} )
+	message("is't equal")
+endif()
+
+if(UNIX)
+	message("это мать его LINUX!")
+endif()

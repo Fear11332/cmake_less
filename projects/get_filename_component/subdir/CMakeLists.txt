@@ -1,0 +1,8 @@
+get_filename_component(abdir . ABSOLUTE)
+set(CMAKE_MODULE_PATH ${abdir})
+message("${abdir}")
+include(build)
+get_filename_component(progname NAME_WE PROGRAM)
+if(progname NOT STREQUAL "")
+	message("the program has name: ${progname}")
+endif()
