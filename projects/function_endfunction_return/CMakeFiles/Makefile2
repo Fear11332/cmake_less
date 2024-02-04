@@ -54,10 +54,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /mnt/c/Users/saw/Desktop/study/buid_system_cmake/projects/function_endfunction_return
+CMAKE_SOURCE_DIR = /mnt/44580EA6580E9738/Users/saw/Desktop/Users/saw/Desktop/Users/saw/Desktop/study/buid_system_cmake/projects/function_endfunction_return
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /mnt/c/Users/saw/Desktop/study/buid_system_cmake/projects/function_endfunction_return
+CMAKE_BINARY_DIR = /mnt/44580EA6580E9738/Users/saw/Desktop/Users/saw/Desktop/Users/saw/Desktop/study/buid_system_cmake/projects/function_endfunction_return
 
 #=============================================================================
 # Directory level rules for the build root directory
