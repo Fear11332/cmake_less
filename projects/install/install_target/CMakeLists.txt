@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.2.0)
+project(target)
+add_executable(temp temp.cpp)
+set(CMAKE_INSTALL_PREFIX "${PROJECT_SOURCE_DIR}")
+install(TARGETS temp RUNTIME DESTINATION result) 

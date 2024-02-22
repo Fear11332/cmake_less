@@ -1,0 +1,1 @@
+install(SCRIPT hello.cmake)

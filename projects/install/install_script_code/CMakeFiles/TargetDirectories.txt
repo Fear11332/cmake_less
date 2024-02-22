@@ -1,0 +1,12 @@
+/mnt/44580EA6580E9738/Users/saw/Desktop/Users/saw/Desktop/Users/saw/Desktop/study/buid_system_cmake/projects/install/install_script_code/CMakeFiles/edit_cache.dir
+/mnt/44580EA6580E9738/Users/saw/Desktop/Users/saw/Desktop/Users/saw/Desktop/study/buid_system_cmake/projects/install/install_script_code/CMakeFiles/rebuild_cache.dir
+/mnt/44580EA6580E9738/Users/saw/Desktop/Users/saw/Desktop/Users/saw/Desktop/study/buid_system_cmake/projects/install/install_script_code/CMakeFiles/list_install_components.dir
+/mnt/44580EA6580E9738/Users/saw/Desktop/Users/saw/Desktop/Users/saw/Desktop/study/buid_system_cmake/projects/install/install_script_code/CMakeFiles/install.dir
+/mnt/44580EA6580E9738/Users/saw/Desktop/Users/saw/Desktop/Users/saw/Desktop/study/buid_system_cmake/projects/install/install_script_code/CMakeFiles/install/local.dir
+/mnt/44580EA6580E9738/Users/saw/Desktop/Users/saw/Desktop/Users/saw/Desktop/study/buid_system_cmake/projects/install/install_script_code/CMakeFiles/install/strip.dir
+/mnt/44580EA6580E9738/Users/saw/Desktop/Users/saw/Desktop/Users/saw/Desktop/study/buid_system_cmake/projects/install/install_script_code/dir/CMakeFiles/edit_cache.dir
+/mnt/44580EA6580E9738/Users/saw/Desktop/Users/saw/Desktop/Users/saw/Desktop/study/buid_system_cmake/projects/install/install_script_code/dir/CMakeFiles/rebuild_cache.dir
+/mnt/44580EA6580E9738/Users/saw/Desktop/Users/saw/Desktop/Users/saw/Desktop/study/buid_system_cmake/projects/install/install_script_code/dir/CMakeFiles/list_install_components.dir
+/mnt/44580EA6580E9738/Users/saw/Desktop/Users/saw/Desktop/Users/saw/Desktop/study/buid_system_cmake/projects/install/install_script_code/dir/CMakeFiles/install.dir
+/mnt/44580EA6580E9738/Users/saw/Desktop/Users/saw/Desktop/Users/saw/Desktop/study/buid_system_cmake/projects/install/install_script_code/dir/CMakeFiles/install/local.dir
+/mnt/44580EA6580E9738/Users/saw/Desktop/Users/saw/Desktop/Users/saw/Desktop/study/buid_system_cmake/projects/install/install_script_code/dir/CMakeFiles/install/strip.dir

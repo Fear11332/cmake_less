@@ -1,0 +1,7 @@
+/mnt/c/Users/saw/Desktop/study/buid_system_cmake/projects/install/install_target/CMakeFiles/temp.dir
+/mnt/c/Users/saw/Desktop/study/buid_system_cmake/projects/install/install_target/CMakeFiles/edit_cache.dir
+/mnt/c/Users/saw/Desktop/study/buid_system_cmake/projects/install/install_target/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/saw/Desktop/study/buid_system_cmake/projects/install/install_target/CMakeFiles/list_install_components.dir
+/mnt/c/Users/saw/Desktop/study/buid_system_cmake/projects/install/install_target/CMakeFiles/install.dir
+/mnt/c/Users/saw/Desktop/study/buid_system_cmake/projects/install/install_target/CMakeFiles/install/local.dir
+/mnt/c/Users/saw/Desktop/study/buid_system_cmake/projects/install/install_target/CMakeFiles/install/strip.dir

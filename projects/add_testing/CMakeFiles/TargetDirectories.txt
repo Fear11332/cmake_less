@@ -1,0 +1,11 @@
+/mnt/44580EA6580E9738/Users/saw/Desktop/Users/saw/Desktop/Users/saw/Desktop/study/buid_system_cmake/projects/add_testing/CMakeFiles/test.dir
+/mnt/44580EA6580E9738/Users/saw/Desktop/Users/saw/Desktop/Users/saw/Desktop/study/buid_system_cmake/projects/add_testing/CMakeFiles/edit_cache.dir
+/mnt/44580EA6580E9738/Users/saw/Desktop/Users/saw/Desktop/Users/saw/Desktop/study/buid_system_cmake/projects/add_testing/CMakeFiles/rebuild_cache.dir
+/mnt/44580EA6580E9738/Users/saw/Desktop/Users/saw/Desktop/Users/saw/Desktop/study/buid_system_cmake/projects/add_testing/lib/CMakeFiles/my.dir
+/mnt/44580EA6580E9738/Users/saw/Desktop/Users/saw/Desktop/Users/saw/Desktop/study/buid_system_cmake/projects/add_testing/lib/CMakeFiles/test.dir
+/mnt/44580EA6580E9738/Users/saw/Desktop/Users/saw/Desktop/Users/saw/Desktop/study/buid_system_cmake/projects/add_testing/lib/CMakeFiles/edit_cache.dir
+/mnt/44580EA6580E9738/Users/saw/Desktop/Users/saw/Desktop/Users/saw/Desktop/study/buid_system_cmake/projects/add_testing/lib/CMakeFiles/rebuild_cache.dir
+/mnt/44580EA6580E9738/Users/saw/Desktop/Users/saw/Desktop/Users/saw/Desktop/study/buid_system_cmake/projects/add_testing/test/CMakeFiles/mylib_test.dir
+/mnt/44580EA6580E9738/Users/saw/Desktop/Users/saw/Desktop/Users/saw/Desktop/study/buid_system_cmake/projects/add_testing/test/CMakeFiles/test.dir
+/mnt/44580EA6580E9738/Users/saw/Desktop/Users/saw/Desktop/Users/saw/Desktop/study/buid_system_cmake/projects/add_testing/test/CMakeFiles/edit_cache.dir
+/mnt/44580EA6580E9738/Users/saw/Desktop/Users/saw/Desktop/Users/saw/Desktop/study/buid_system_cmake/projects/add_testing/test/CMakeFiles/rebuild_cache.dir

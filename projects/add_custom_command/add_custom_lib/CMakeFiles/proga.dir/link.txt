@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/proga.dir/prog/main.cpp.o -o proga   -L/mnt/44580EA6580E9738/Users/saw/Desktop/Users/saw/Desktop/Users/saw/Desktop/study/buid_system_cmake/projects/add_custom_command/add_custom_lib/lib/src  -Wl,-rpath,/mnt/44580EA6580E9738/Users/saw/Desktop/Users/saw/Desktop/Users/saw/Desktop/study/buid_system_cmake/projects/add_custom_command/add_custom_lib/lib/src -ll 

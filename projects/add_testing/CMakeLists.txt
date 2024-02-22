@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.2.0)
+project(tsts)
+enable_testing()
+add_subdirectory(lib)
+add_subdirectory(test)

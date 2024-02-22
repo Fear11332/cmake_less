@@ -1,0 +1,3 @@
+/mnt/c/Users/saw/Desktop/study/buid_system_cmake/projects/find_packege/config_file/lib/CMakeFiles/liba.dir
+/mnt/c/Users/saw/Desktop/study/buid_system_cmake/projects/find_packege/config_file/lib/CMakeFiles/edit_cache.dir
+/mnt/c/Users/saw/Desktop/study/buid_system_cmake/projects/find_packege/config_file/lib/CMakeFiles/rebuild_cache.dir

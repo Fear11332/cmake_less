@@ -1,0 +1,6 @@
+/mnt/44580EA6580E9738/Users/saw/Desktop/Users/saw/Desktop/Users/saw/Desktop/study/buid_system_cmake/projects/add_custom_target/CMakeFiles/edit_cache.dir
+/mnt/44580EA6580E9738/Users/saw/Desktop/Users/saw/Desktop/Users/saw/Desktop/study/buid_system_cmake/projects/add_custom_target/CMakeFiles/rebuild_cache.dir
+/mnt/44580EA6580E9738/Users/saw/Desktop/Users/saw/Desktop/Users/saw/Desktop/study/buid_system_cmake/projects/add_custom_target/lib/CMakeFiles/l.dir
+/mnt/44580EA6580E9738/Users/saw/Desktop/Users/saw/Desktop/Users/saw/Desktop/study/buid_system_cmake/projects/add_custom_target/lib/CMakeFiles/lib_archive.dir
+/mnt/44580EA6580E9738/Users/saw/Desktop/Users/saw/Desktop/Users/saw/Desktop/study/buid_system_cmake/projects/add_custom_target/lib/CMakeFiles/edit_cache.dir
+/mnt/44580EA6580E9738/Users/saw/Desktop/Users/saw/Desktop/Users/saw/Desktop/study/buid_system_cmake/projects/add_custom_target/lib/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,18 @@
+Start testing: Feb 05 18:46 +04
+----------------------------------------------------------
+1/1 Testing: mylib_test_1
+1/1 Test: mylib_test_1
+Command: "/mnt/44580EA6580E9738/Users/saw/Desktop/Users/saw/Desktop/Users/saw/Desktop/study/buid_system_cmake/projects/add_testing/test/mylib_test"
+Directory: /mnt/44580EA6580E9738/Users/saw/Desktop/Users/saw/Desktop/Users/saw/Desktop/study/buid_system_cmake/projects/add_testing/test
+"mylib_test_1" start time: Feb 05 18:46 +04
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"mylib_test_1" end time: Feb 05 18:46 +04
+"mylib_test_1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Feb 05 18:46 +04

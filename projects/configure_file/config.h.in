@@ -1,0 +1,3 @@
+#cmakedefine PROJECT 
+int f();
+int g();

@@ -1,0 +1,12 @@
+cmake_minimum_required(VERSION 3.22.0)
+project(prog)
+add_executable(
+	prog main.cpp)
+add_custom_command(
+	TARGET prog
+	PRE_LINK 
+		COMMAND echo "compilation done!"
+	POST_BUILD
+		COMMAND tar cf archive.tar prog
+		COMMAND gzip archive.tar 
+) 
