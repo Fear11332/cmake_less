@@ -1,5 +1,5 @@
 CMakeFiles/prog.dir/main.cpp.o: \
- /mnt/44580EA6580E9738/Users/saw/Desktop/Users/saw/Desktop/Users/saw/Desktop/study/buid_system_cmake/projects/get_propety_set_property/main.cpp \
+ /mnt/c/Users/saw/Desktop/study/buid_system_cmake/projects/get_propety_set_property/main.cpp \
  /usr/include/stdc-predef.h /usr/include/c++/11/iostream \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \

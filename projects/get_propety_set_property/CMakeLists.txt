@@ -4,7 +4,11 @@ add_executable(prog main.cpp)
 get_property(
 	PROG_PROP
 	TARGET prog
-	PROPERTY OUTPUT_NAME
+	PROPERTY NAME
 	)
 message("program prog propertyes: ${PROG_PROP}")
-
+set_property(
+	TARGET prog
+	PROPERTY OUTPUT_NAME
+	my_prog
+	)

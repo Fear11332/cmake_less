@@ -1,1 +1,1 @@
-/usr/bin/c++ CMakeFiles/prog.dir/main.cpp.o -o prog 
+/usr/bin/c++ CMakeFiles/prog.dir/main.cpp.o -o my_prog 
