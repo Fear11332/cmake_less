@@ -68,6 +68,7 @@ include CMakeFiles/bool_expr.dir/progress.make
 
 CMakeFiles/bool_expr:
 	/usr/bin/cmake -E echo String\ savva\ equal\ string\ sveta:\  0
+	/usr/bin/cmake -E echo 5!=2:\ 1
 
 bool_expr: CMakeFiles/bool_expr
 bool_expr: CMakeFiles/bool_expr.dir/build.make

@@ -8,4 +8,4 @@ add_custom_target(
 	${CMAKE_COMMAND} -E echo "String savva equal string sveta: "
 	$<STREQUAL:savva,sveta>
 	COMMAND 
-	${CMAKE_COMMAND} -E echo ")
+	${CMAKE_COMMAND} -E echo "5!=2: $<NOT:$<EQUAL:5,2>>")
