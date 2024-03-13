@@ -1,0 +1,5 @@
+Пусть требуется в файле cmakelists.txt корневого проекта подключить подроект, находящийся в подкаталоге library_1.При помощи какой команды это можно сделать ?
+
+1)include(library_1/CMakeLists.txt)
+2)add_subdirectory(library_1)+
+3)include_directories(library_1)

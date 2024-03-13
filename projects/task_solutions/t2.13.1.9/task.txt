@@ -1,0 +1,9 @@
+пусть файл cmakelists.txt для либы имеет некст содержимое:
+
+add_library(mylib file1.cpp file1.h)
+
+Пусть в проекте приложения, подключающем эту либу, требуется настроить путь к заголовку либы, а также определить символ препроцессора MY_LIB_USE.Какой минимальный набор команд нужно использовать для этого в файле cmakelists.txt проекта приложения?
+
+1)target_link_libraries()
+2)target_link_libraries(), include_directories(), add_definitions()+
+3)target_link_libraries(), include_directories(), add_compile_options()

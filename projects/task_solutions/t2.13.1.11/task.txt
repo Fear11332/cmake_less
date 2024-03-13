@@ -1,0 +1,21 @@
+пусть в файле cmakelists.txt есть некст команды для добавления целей либ:
+
+add_library(lib1 MODULE lib1.cpp)
+
+add_library(lib2 lib2.cpp)
+
+set(BUILD_SHARED_LIBS FALSE)
+
+add_library(lib3 lib3.cpp)
+
+Пусть инструмент cmake вызывается для этого проекта при помощи некст команды:
+
+cmake -G <генератор> -D BUILD_SHARED_LIBS=1 <путь>
+
+Каких типов будет созданы цели либ lib1, lib2, lib3 соответственно в резульатате исполнения инструмента cmake для данного проекта?
+
+1)STATIC,STATIC,STATIC
+2)SHARED_STATIC,STATIC
+3)MODULE,STATIC,STATIC
+4)MODULE,SHARED,STATIC+
+5)MODULE,SHARED,SHARED
